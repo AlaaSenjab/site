@@ -1,8 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-<loc>https://alaasenjab.github.io/site/</loc>
-<lastmod>2020-02-04</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>1.0</priority>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://alaasenjab.github.io/site/</loc>
+	<lastmod>2020-12-05</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/76260606_2551708324898942_1607368888935251968_o.jpg</image:loc>
+	<image:title>76260606_2551708324898942_1607368888935251968_o</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/Tensorflow_logo.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/OpenCV.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/colab.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/5ee2390f33f235a4124e456a_workflow.png</image:loc>
+	<image:title>5ee2390f33f235a4124e456a_workflow</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/2qy7unjo2j331.png</image:loc>
+	<image:title>iconfinder_2018_social_media_popular_app_logo_reddit_3228547%20%281%29</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/bs.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/iconfinder_2018_social_media_popular_app_logo_reddit_3228547%20%281%29.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/prod-art-aws-600-width-1200.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/Amis_house.png</image:loc>
+	<image:title>Amis_house 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/Kaggle-logo.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/Seaborn-logo.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/matplotlib.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/ggplot2.png</image:loc>
+	<image:title>ggplot2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/Seaborn-logo.png</image:loc>
+	<image:title>Seaborn logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/tableau-logo.png</image:loc>
+	<image:title>matplotlib</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/Tensorflow_logo.png</image:loc>
+	<image:title>Tensorflow_logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/fe5e24_ccd87057cdc143e0b7a1c15b556f0baf_mv2.png</image:loc>
+	<image:title>bs</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/python-logo.png</image:loc>
+	<image:title>python logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/colab.png</image:loc>
+	<image:title>colab</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/OpenCV.svg</image:loc>
+	<image:title>OpenCV</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/prod-art-aws-600-width-1200.png</image:loc>
+	<image:title>html_css</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/html_css.svg</image:loc>
+	<image:title>html_css</image:title>
+	</image:image>
+	<video:video>
+	<video:content_loc>https://alaasenjab.github.io/site/vid/final_5de84a6c70809a00138a2ae0_568910.mp4</video:content_loc>
+	</video:video>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alaasenjab.github.io/site/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
 </url>
 </urlset>
